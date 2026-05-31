@@ -101,3 +101,6 @@ Steering behavior and vitals data are collected
 A fusion engine evaluates the driver’s condition
 Alerts are triggered based on severity
 In critical situations, the system slows down or stops the vehicle and sends emergency alerts
+```
+---
+###prototype video: https://drive.google.com/file/d/1XSGoLYR7t7cJ9hMnYSgMwtu98LKDXiVu/view?usp=drivesdk
